@@ -1,0 +1,16 @@
+﻿  Swords_And_Dragons.cpp
+C:\Users\DMandK\source\repos\Swords_And_Dragons\direWolf.h(33,20): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Swords_And_Dragons.cpp')
+  
+C:\Users\DMandK\source\repos\Swords_And_Dragons\direWolf.h(40,20): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Swords_And_Dragons.cpp')
+  
+C:\Users\DMandK\source\repos\Swords_And_Dragons\Swords_And_Dragons.cpp(30,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  direWolf.h
+C:\Users\DMandK\source\repos\Swords_And_Dragons\direWolf.h(33,20): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\DMandK\source\repos\Swords_And_Dragons\direWolf.h(40,20): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  dragon.h
+  hero.h
+  troll.h
+  Generating Code...
+  Swords_And_Dragons.vcxproj -> C:\Users\DMandK\source\repos\Swords_And_Dragons\x64\Debug\Swords_And_Dragons.exe
